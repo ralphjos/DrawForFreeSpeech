@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Ralph\Desktop\SectionToqActivity\DrawforFreeSpeech\app\build\intermediates\pre-dexed\debug\classes-31a0770690e3faca0dccce94cbec364f72b0bcfc.jar"
+        jar="C:\Users\Ralph\Desktop\SectionToqActivity\DrawforFreeSpeech\app\build\intermediates\exploded-aar\com.larswerkman\HoloColorPicker\1.4\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="5d5a825cbf0f67237377034c2c4edf9ba7e60fbe"/>
+    <item
+        dex="C:\Users\Ralph\Desktop\SectionToqActivity\DrawforFreeSpeech\app\build\intermediates\pre-dexed\debug\android-toq-api-1.5.2-fabca7bf6f33cd749e22fe4c3169b20536b7f442.jar"
+        jar="C:\Users\Ralph\Desktop\SectionToqActivity\DrawforFreeSpeech\app\libs\android-toq-api-1.5.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="33b06af4f6ee27952eee84fe82ed15d8f603d4b7"/>
+    <item
+        dex="C:\Users\Ralph\Desktop\SectionToqActivity\DrawforFreeSpeech\app\build\intermediates\pre-dexed\debug\slf4j-2be7bcf92ce7a28a9737472f49f0b5ef2648b3c0.jar"
+        jar="C:\Users\Ralph\Desktop\SectionToqActivity\DrawforFreeSpeech\app\libs\slf4j.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a0b527e8aabcc1f1e97d1674dc3f4f0794ec5df1"/>
+    <item
+        dex="C:\Users\Ralph\Desktop\SectionToqActivity\DrawforFreeSpeech\app\build\intermediates\pre-dexed\debug\flickrj-4010a1a351eb353c7df0bb81ae750274a9b494b5.jar"
+        jar="C:\Users\Ralph\Desktop\SectionToqActivity\DrawforFreeSpeech\app\libs\flickrj.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="08ff4a341260f9f438456d990396589d51a61e36"/>
+
+</pre-dex-items>
